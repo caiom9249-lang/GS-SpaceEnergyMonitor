@@ -4,7 +4,4 @@ Integrante:
 - Caio Marques Da Silva - RM: 573847
 
 Link do GitHub:
-(COLE AQUI DEPOIS)
-
-Link do Vídeo:
-(COLE AQUI DEPOIS)
+https://github.com/caiom9249-lang/GS-SpaceEnergyMonitor.git
