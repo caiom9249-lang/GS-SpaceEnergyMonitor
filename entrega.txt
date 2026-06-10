@@ -1,8 +1,7 @@
 GLOBAL SOLUTION 2026.1
 
-Integrantes:
-- Seu nome completo
-- Nome dos demais integrantes (se houver)
+Integrante:
+- Caio Marques Da Silva - RM: 573847
 
 Link do GitHub:
 (COLE AQUI DEPOIS)
